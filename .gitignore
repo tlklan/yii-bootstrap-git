@@ -2,3 +2,5 @@
 demo/assets/*
 demo/protected/config/local.php
 demo/protected/runtime/*
+vendor/
+composer.lock
