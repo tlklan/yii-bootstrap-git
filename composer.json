@@ -1,0 +1,14 @@
+{
+    "name": "tlklan/yii-bootstrap",
+    "description": "Fork of yii-bootstrap",
+    "type": "library",
+    "license": "BSD-3-Clause",
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "components",
+            "form",
+            "widgets"
+        ]
+    }
+}
